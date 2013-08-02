@@ -1,0 +1,26 @@
+<style type="text/css">
+table{
+   }
+
+#customer{
+   border: 1px solid black;
+   border-collapse:collapse;
+}
+
+th{
+  background-color:#CCFFFF;
+  border: 1px solid black;
+  padding: 6px;
+}
+
+td{
+  border: 1px solid black;
+  padding: 6px;
+}
+
+a:link {
+text-decoration:none;
+}
+
+</style>
+
